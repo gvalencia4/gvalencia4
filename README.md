@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvalencia4
 - 👀 I’m interested in learning how to create apps
 - 🌱 I’m currently learning cs50x
-- 💞️ I’m looking to collaborate on ... hobby projects
+- 💞️ I’m looking to collaborate on hobby projects
 - 📫 How to reach me ...
 
 <!---
