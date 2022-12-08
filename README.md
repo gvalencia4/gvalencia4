@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @gvalencia4
-- 👀 I’m interested in learning how to create apps
-- 🌱 I’m currently learning cs50x
-- 💞️ I’m looking to collaborate on hobby projects
-- 📫 How to reach me ...
+Hi, my name is Gabriel. I am currently working on projects that will help build my understanding of web development and CS topics. My main launguages are JavaScript, Java, and C. I recently completed [LaunchCode](https://www.launchcode.org), so you'll find a lot of repos related to that bootcamp.
 
 <!---
 gvalencia4/gvalencia4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
